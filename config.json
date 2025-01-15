@@ -1,0 +1,20 @@
+{
+    "requirements": [
+      {
+        "name": "node",
+        "check_command": "node --version",
+        "version_regex": "v(\\d+\\.\\d+\\.\\d+)",
+        "required_version": "16.14.0",
+        "install_instructions": "Install Node from https://nodejs.org/en/download/ or use Chocolatey: choco install nodejs",
+        "upgrade_instructions": "Download newer Node from the official site or use Chocolatey: choco upgrade nodejs"
+      },
+      {
+        "name": "python",
+        "check_command": "python --version",
+        "version_regex": "Python (\\d+\\.\\d+\\.\\d+)",
+        "required_version": "3.9.0",
+        "install_instructions": "Download Python from https://www.python.org/downloads/ or use Windows Store.",
+        "upgrade_instructions": "Download newer Python from python.org or use your preferred method."
+      }
+    ]
+  }
