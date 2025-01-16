@@ -1,0 +1,170 @@
+{
+  "tools": [
+    {
+      "name": "Python",
+      "required_version": "3.13.1",
+      "version_regex": "Python (\\d+\\.\\d+\\.\\d+)",
+      "package_manager": "choco"
+    },
+    {
+      "name": "Node.js",
+      "required_version": "20.5.1",
+      "version_regex": "v(\\d+\\.\\d+\\.\\d+)",
+      "package_manager": "choco"
+    },
+    {
+      "name": "Docker",
+      "required_version": "24.0.5",
+      "version_regex": "Docker version (\\d+\\.\\d+\\.\\d+)",
+      "package_manager": "choco"
+    },
+    {
+      "name": "Git",
+      "required_version": "2.42.0",
+      "version_regex": "git version (\\d+\\.\\d+\\.\\d+)",
+      "package_manager": "choco"
+    },
+    {
+      "name": "Terraform",
+      "required_version": "1.5.3",
+      "version_regex": "Terraform v(\\d+\\.\\d+\\.\\d+)",
+      "package_manager": "choco"
+    },
+    {
+      "name": "Ansible",
+      "required_version": "2.14.0",
+      "version_regex": "ansible (\\d+\\.\\d+\\.\\d+)",
+      "package_manager": "pip"
+    },
+    {
+      "name": "Kubernetes",
+      "required_version": "1.28.2",
+      "version_regex": "kubectl v(\\d+\\.\\d+\\.\\d+)",
+      "package_manager": "choco"
+    },
+    {
+      "name": "AWS CLI",
+      "required_version": "2.13.0",
+      "version_regex": "aws-cli/(\\d+\\.\\d+\\.\\d+)",
+      "package_manager": "choco"
+    },
+    {
+      "name": "OpenSSL",
+      "required_version": "3.1.2",
+      "version_regex": "OpenSSL (\\d+\\.\\d+\\.\\d+)",
+      "package_manager": "choco"
+    },
+    {
+      "name": "PostgreSQL",
+      "required_version": "15.3",
+      "version_regex": "PostgreSQL (\\d+\\.\\d+)",
+      "package_manager": "choco"
+    },
+    {
+      "name": "MySQL",
+      "required_version": "8.1.0",
+      "version_regex": "mysql (\\d+\\.\\d+\\.\\d+)",
+      "package_manager": "choco"
+    },
+    {
+      "name": "Java",
+      "required_version": "21.0.5",
+      "version_regex": "java version \"(\\d+\\.\\d+\\.\\d+)\"",
+      "package_manager": "choco"
+    },
+    {
+      "name": "Maven",
+      "required_version": "3.9.4",
+      "version_regex": "Apache Maven (\\d+\\.\\d+\\.\\d+)",
+      "package_manager": "choco"
+    },
+    {
+      "name": "Gradle",
+      "required_version": "8.3",
+      "version_regex": "Gradle (\\d+\\.\\d+)",
+      "package_manager": "choco"
+    },
+    {
+      "name": "Nginx",
+      "required_version": "1.25.2",
+      "version_regex": "nginx version: nginx/(\\d+\\.\\d+\\.\\d+)",
+      "package_manager": "choco"
+    },
+    {
+      "name": "PHP",
+      "required_version": "8.2.10",
+      "version_regex": "PHP (\\d+\\.\\d+\\.\\d+)",
+      "package_manager": "choco"
+    },
+    {
+      "name": "Ruby",
+      "required_version": "3.3.0",
+      "version_regex": "ruby (\\d+\\.\\d+\\.\\d+)",
+      "package_manager": "choco"
+    },
+    {
+      "name": "Perl",
+      "required_version": "5.38.0",
+      "version_regex": "perl (\\d+\\.\\d+\\.\\d+)",
+      "package_manager": "choco"
+    },
+    {
+      "name": "Scala",
+      "required_version": "3.5.0",
+      "version_regex": "Scala code runner version (\\d+\\.\\d+\\.\\d+)",
+      "package_manager": "choco"
+    },
+    {
+      "name": "Go",
+      "required_version": "1.21.1",
+      "version_regex": "go version go(\\d+\\.\\d+\\.\\d+)",
+      "package_manager": "choco"
+    },
+    {
+      "name": "Rust",
+      "required_version": "1.73.0",
+      "version_regex": "rustc (\\d+\\.\\d+\\.\\d+)",
+      "package_manager": "choco"
+    },
+    {
+      "name": "Visual Studio Code",
+      "required_version": "1.96.3",
+      "version_regex": "Version: (\\d+\\.\\d+\\.\\d+)",
+      "package_manager": "choco"
+    },
+    {
+      "name": "Vagrant",
+      "required_version": "2.4.7",
+      "version_regex": "Vagrant (\\d+\\.\\d+\\.\\d+)",
+      "package_manager": "choco"
+    },
+    {
+      "name": "Elasticsearch",
+      "required_version": "8.10.2",
+      "version_regex": "elasticsearch (\\d+\\.\\d+\\.\\d+)",
+      "package_manager": "choco"
+    },
+    {
+      "name": "Redis",
+      "required_version": "7.2.1",
+      "version_regex": "Redis server v=(\\d+\\.\\d+\\.\\d+)",
+      "package_manager": "choco"
+    },
+    {
+      "name": "MongoDB",
+      "required_version": "6.1.0",
+      "version_regex": "db version v(\\d+\\.\\d+\\.\\d+)",
+      "package_manager": "choco"
+    },
+    {
+      "name": "Apache Kafka",
+      "required_version": "3.6.0",
+      "version_regex": "Kafka version : (\\d+\\.\\d+\\.\\d+)",
+      "package_manager": "choco"
+    },
+    {
+      "name": "Zookeeper",
+      "required_version": "3.9.0",
+      "version_regex": "ZooKeeper version: (\\d+\\.\\d+\\.\\d+)",
+      "package_manager": "choco"}]}
+      
